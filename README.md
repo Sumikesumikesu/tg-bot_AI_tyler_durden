@@ -2,6 +2,7 @@
 
 ### Суть проекта: 
 Телеграм-бот, который отвечает на вопросы пользователя в стиле Тайлера Дердена – главного героя фильма «Бойцовский клуб». 
+
 <img width="425" alt="image" src="https://github.com/user-attachments/assets/629210b0-99d6-40c5-8870-b5706e10f188" />
 
 <img width="425" alt="image" src="https://github.com/user-attachments/assets/fd0a5bb4-459a-428d-b6b6-bce9f7ffc1d4" />
